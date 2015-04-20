@@ -1,0 +1,7 @@
+jellyfish,C:\Users\Public\Pictures\Sample Pictures\Jellyfish.jpg
+tulips,C:\Users\Public\Pictures\Sample Pictures\Tulips.jpg
+flower,C:\Users\Public\Pictures\Sample Pictures\Chrysanthemum.jpg
+koala,C:\Users\Public\Pictures\Sample Pictures\Koala.jpg
+lighthouse,C:\Users\Public\Pictures\Sample Pictures\Lighthouse.jpg
+desert,C:\Users\Public\Pictures\Sample Pictures\Desert.jpg
+penguin,C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg

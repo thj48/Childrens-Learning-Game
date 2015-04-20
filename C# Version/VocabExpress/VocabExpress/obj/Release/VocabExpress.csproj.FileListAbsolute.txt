@@ -1,0 +1,12 @@
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\bin\Release\VocabExpress.exe.config
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\bin\Release\VocabExpress.exe
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\bin\Release\VocabExpress.pdb
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.csprojResolveAssemblyReference.cache
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.AddWord.resources
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.MainMenu.resources
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.Properties.Resources.resources
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.Test.resources
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.TestResults.resources
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.csproj.GenerateResource.Cache
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.exe
+C:\Users\csuser\Desktop\childrens-learning-game\C# Version\VocabExpress\VocabExpress\obj\Release\VocabExpress.pdb
